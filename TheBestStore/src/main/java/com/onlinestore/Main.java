@@ -7,5 +7,6 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("The Best online Store");
+        System.out.println("Welcome! Have a great shopping experience!");
     }
 }
